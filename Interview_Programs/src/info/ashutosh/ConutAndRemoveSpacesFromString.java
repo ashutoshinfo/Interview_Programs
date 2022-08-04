@@ -2,7 +2,7 @@ package info.ashutosh;
 
 import java.util.function.Function;
 
-public class ConutAndRemoveSpaces {
+public class ConutAndRemoveSpacesFromString {
 
 	public static void main(String[] args) {
 		String text = "a bb ccc dddd";
